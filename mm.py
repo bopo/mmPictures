@@ -2,8 +2,8 @@
 # -*-coding:utf-8-*-
 import os
 import urllib2
-from os import system
 
+from os import system
 from lxml import etree
 
 """
